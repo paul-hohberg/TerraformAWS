@@ -27,6 +27,10 @@ List the resources in the project's state.
 
 	terraform state list
 
+Name the instance something useful.
+
+	terraform apply -var "instance_name=RelevantName"
+
 Tear it down.
 
 	terraform destroy
