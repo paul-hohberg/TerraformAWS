@@ -26,3 +26,7 @@ Inspect current state.
 List the resources in the project's state.
 
 	terraform state list
+
+Tear it down.
+
+	terraform destroy
