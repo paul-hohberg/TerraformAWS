@@ -23,6 +23,10 @@ Inspect current state.
 
 	terraform show
 
+Query outputs.
+
+	terraform output
+
 List the resources in the project's state.
 
 	terraform state list
